@@ -21,4 +21,4 @@ while guesses_left > 0:
             guesses_left = 0
 
         if (guesses_left <= 0 and state != "win"):
-            print("You Loose!")
+            print("You Lose!")
